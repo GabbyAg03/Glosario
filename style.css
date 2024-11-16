@@ -1,0 +1,48 @@
+body {
+    background-color: linen;
+}
+
+h1 {
+    font-family: "poppins" sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-family: "poppins" sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+div {
+    background-color: white;
+    width: 200px;
+    text-align: center;
+    padding: 25px;
+
+}
+
+div img {
+    width: 200px;
+    margin-top: 10px;
+}
+
+section {
+    display: flex;
+    column-gap: 30px;
+    justify-content: center;
+
+}
+
+h1 {
+    border: solid 3px gray;
+    text-align: center;
+    padding: 12px 0;
+    background-color: rosybrown;
+}
+
+hr {
+    height: 3px;
+    background-color: gray;
+}
